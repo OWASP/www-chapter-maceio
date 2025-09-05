@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Wesley Marinho](mailto:wesley.marinho@owasp.org)
+* [Byron Lanverly](mailto:lanverly@owasp.org)
+* [Arthur Melo](mailto:arthur.melo@owasp.org)
+* [Felipe Tenorio](mailto:felipe.tenorio@owasp.org)
