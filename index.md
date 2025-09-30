@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Maceio Chapter
-tags: example-tag
+title: OWASP Maceio
+tags: agenda-tag
 region: South America
 country: Brazil
 meetup-group: owasp-maceio-chapter
@@ -10,12 +10,14 @@ meetup-group: owasp-maceio-chapter
 ---
 
 ## Welcome
+
 ![OWASP LA](assets/images/logo-owasp-maceio-chapter.jpeg)
 Welcome to the OWASP [Maceió](https://pt.wikipedia.org/wiki/Macei%C3%B3) Chapter home page.
 
 The OWASP Maceió chapter typically meets on the **last Friday every two months starting in January**. We host a great security-related speaker on an appsec topic. In October, we hold our annual dinner, a special moment to connect and celebrate. Join us for an excellent opportunity to learn, network before and after the talk, and enjoy the welcoming community in Maceió.
 
 ## Participation
+
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
